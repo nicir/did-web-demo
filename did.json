@@ -1,0 +1,18 @@
+{
+  "id": "did:web:nicir.github.io:did-web-demo",
+  "assertionMethod": [
+    {
+      "id": "did:web:nicir.github.io:did-web-demo#440f44d9f4b5466b163c7fc7d65d9497e43c44ee00bd2443f03128e9c9ebf52d",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:nicir.github.io:did-web-demo",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "crv": "P-384",
+        "x": "tn6TfqVkDEwMLP7Kq7wV6KG71n1ULhD0ZD-SdNMqsFCXI2ssOJI5yUZuAXz91KEU",
+        "y": "m7tg9_xil3CniWt-mZwykSiiTTSoKQlb6lzSrrDA_gka0i_tkz13YrJy1VUlwm_-",
+        "kid": "#440f44d9f4b5466b163c7fc7d65d9497e43c44ee00bd2443f03128e9c9ebf52d",
+        "alg": "ES384"
+      }
+    }
+  ]
+}
