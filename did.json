@@ -14,5 +14,10 @@
         "alg": "ES384"
       }
     }
-  ]
+  ],
+    "service": [{
+    "id":"did:web:nicir.github.io:did-web-demo#linked-domain",
+    "type": "LinkedDomains",
+    "serviceEndpoint": "https://isw.uni-stuttgart.de"
+  }]
 }
